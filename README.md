@@ -1,7 +1,7 @@
 Hello There 👋
 
 I'm Akash Mishra,Started coding journey from  programming languages  (10 months ago), then got into Blockchain development  with Solidity, and now i like to revise all blockchain stuff like:-Html,css,JavaScript,Node.js,Solidity,Trufle After this i had to React.js And Web3.0.I had a break for 6 Months bcz of collage exam,practicle,etc.
-that why i have to revised all things that i learned.
+that's why i have to revised all things that i learned.
 
 Cool stuff about me
 
