@@ -13,6 +13,6 @@ Cool stuff about me
 
 😄 Pronouns - 𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜
 
-📫 How to reach me? -> Linkedin - https://www.linkedin.com/in/mindless-conquer-19004723a/
+📫 How to reach me? -> Linkedin - https://www.linkedin.com/in/akash-mishra-19004723a/
 
 ⚡ Fun fact about me -> I like to Explore.
