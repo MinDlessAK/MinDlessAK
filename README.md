@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Mishra</h1>
-<h3 align="center">Pursuing my bachelor of techonology in computer science engineering 3rd year</h3>
+<h3 align="center">Pursuing my bachelor of computer Application 3rd year</h3>
 <img align="right" alt="coding"width="400"src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshubhatt8&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshubhatt8" /> </p>
