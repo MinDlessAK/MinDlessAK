@@ -10,14 +10,11 @@
 
 - 👯 I’m looking to collaborate on **Projects**
 
-- 📫 How to reach me? -> **Linkedin - https://www.linkedin.com/in/akash-mishra-19004723a/**
-
 ⚡ Fun fact about me -> I like to Explore.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/priyans86226163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyans86226163" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/priyanshu bhatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu bhatt" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akash-mishra-19004723a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu bhatt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
